@@ -1,0 +1,10 @@
+{
+  "entities": {
+    "Werkzeugübersicht": {
+      "placeholders_set": 9,
+      "defaults_keys": ["zustand", "kaufdatum"],
+      "computed_keys": [],
+      "reason": "Reine Stammdaten-Verwaltung ohne berechenbare Felder. Keine applookup-Relationen, kein Datums-Paar für Dauer, keine Aggregat-Posten. Kaufpreis ist dokumentarisch (Einkaufswert), nicht formulistisch. Defaults: zustand='Neu' (häufigster Start) und kaufdatum=heute (dokumentativ). Placeholders für alle 9 Felder: Identifikation (name), Klassifikation (kategorie, zustand), Stamm (hersteller, lagerort), Wert (kaufpreis), Dokufelder (kaufdatum, seriennummer, bemerkungen)."
+    }
+  }
+}

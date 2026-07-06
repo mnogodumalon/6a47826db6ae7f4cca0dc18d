@@ -1,0 +1,13 @@
+{
+  "WerkzeuguebersichtDialog.tsx": {
+    "name":            "z. B. Bohrmaschine Makita",
+    "kategorie":       "Wähle eine Kategorie",
+    "hersteller":      "z. B. Makita, DeWalt, Bosch",
+    "lagerort":        "z. B. Regal A3, Werkbank West",
+    "zustand":         "Aktueller Zustand auswählen",
+    "kaufpreis":       "z. B. 89,99",
+    "kaufdatum":       "Wann wurde es gekauft?",
+    "seriennummer":    "z. B. MAK-2024-00142",
+    "bemerkungen":     "Besonderheiten, Wartung, Schäden, Zubehör..."
+  }
+}

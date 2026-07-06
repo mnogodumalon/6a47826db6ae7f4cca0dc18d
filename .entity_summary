@@ -1,0 +1,1 @@
+- Werkzeugübersicht (werkzeuguebersicht): name[string/text], kategorie[lookup/select], hersteller[string/text], lagerort[string/text], zustand[lookup/select], kaufpreis[number], kaufdatum[date/date], seriennummer[string/text], bemerkungen[string/textarea], bild[file]
